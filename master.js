@@ -8,7 +8,6 @@ const affiliateLinks = {
   "fallback": ["https://www.textchemistry.com/?\&shield=97ec2dalvibpfm3lti80s2tw6v\&traffic\_source=as32d1", "Click Here To Continue"]
 };
 
-window.onload = function() {
   const urlParams = new URLSearchParams(window.location.search);
   const target = urlParams.get('go');
   const actionButton = document.getElementById('affiliateButton');
