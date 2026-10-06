@@ -4,13 +4,14 @@
 
 const affiliateLinks = {
   // Yahan apne offers ke links dalein
-  "secret-obsession": "https://hissecretobsession.com/freepresentation.php?&shield=a16b6l68xl7udu87qjv-kijm6v&traffic_source=cfi", // Relationship Niche
+  "secret-obsession": "https://hissecretobsession.com/why-men-pull-away/?\&shield=789adiabtwfw8nf1ji5cphio6p\&traffic\_source=c6gb
+", // Relationship Niche
   "health-tips": "https://aapka-affiliate-link-2.com",      // Health Niche
   "manifestation": "https://aapka-affiliate-link-3.com",    // Manifestation Niche
   "gift-ideas": "https://amazon.com/your-affiliate-link",
   
   // Default offer agar URL me kuch mistake ho
-  "fallback": "https://hissecretobsession.com/freepresentation.php?&shield=a16b6l68xl7udu87qjv-kijm6v&traffic_source=cfi"
+  "fallback": "https://www.textchemistry.com/?\&shield=97ec2dalvibpfm3lti80s2tw6v\&traffic\_source=as32d1"
 };
 
 // ================================================
